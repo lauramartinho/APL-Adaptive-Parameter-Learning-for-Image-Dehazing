@@ -1,5 +1,5 @@
 ## APL: Adaptive Parameter Learning for Image Dehazing paper repository
-**This is the source code for the paper "APL: Adaptive Parameter Learning for Image Dehazing paper repository" accepted as an oral at IEEE ICMLA (International Conference of Machine Learning and Applications) 2024.**
+**This is the source code for the paper "APL: Adaptive Parameter Learning for Image Dehazing" accepted as an oral at IEEE ICMLA (International Conference of Machine Learning and Applications) 2024.**
 
 
 <p align="center"> 
